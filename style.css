@@ -1,0 +1,111 @@
+.side-line{
+    border-left: 8px solid rgb(142, 161, 142);
+}
+body{
+    margin-right: 10px;
+    padding-right: 80px;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+.way-far{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    padding-bottom: 40px;
+    display: flex;
+}
+.half-width{
+    width: 80%;
+    height: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.half-width img{
+    width: 80%;
+    height: 60%;
+}
+h1{
+    color: #40658d;
+    font-size: 60px;
+}
+#white{
+    color: #813b71;
+}
+section{
+   
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    background-color: rgb(114, 56, 141);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    
+
+}
+.h2-center{color: #40658d;
+    text-align: center;
+    font-size: 40px;
+}
+.h2-text{
+    color: #40658d;
+    font-size: 40px;
+}
+span{
+    color: #6d315f;
+    font-size: 45px;
+}
+.half-width p{
+    text-align: justify;
+    color: #3f2b07;
+    font-size: 20px;
+}
+.half-width .box {
+    
+    width: 85%;
+    height: 90%;
+    text-align: center;
+    padding: 10px 10px;
+    margin-left: 10%;
+    margin-right: 5%;
+   }
+#mission{
+    background-color: rgb(204, 221, 235);
+    padding-left: 25px; 
+    padding-right: 5px;   
+    border: 0px solid rgb(142, 161, 142);
+    border-radius: 10px;
+}
+#vision{
+    background-color: rgb(156, 199, 186);
+    padding-left: 25px;
+    padding-right: 5px;
+    border: 0px solid rgb(142, 161, 142);
+    border-radius: 10px;
+}
+#goal{
+    background-color: #d9e6ab;
+    padding-left: 25px;
+    padding-right: 5px;
+    border: 0px solid rgb(142, 161, 142);
+    border-radius: 10px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: #40658d;
+
+}
+.box img{ bo
+    height: 40%;
+    width: 30%;
+    padding-left: px;
+    padding-right: 3px;
+}
